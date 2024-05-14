@@ -16,6 +16,8 @@ Vous trouverez :
   <li>Le fichier contenant les dépendances requises  <strong>requirements.txt</strong></li>
   <li>Le modele entrainé   <strong>boostv4_df.pkl</strong></li>
   <li>Les données de test pour les tests unitaire   <strong>data_test1.json</strong></li>
+  <li>Les données de test pour la requete sur l API   <strong>data_test100.json</strong></li>
+  <li>Le notebook pour tester l API   <strong>client.json</strong></li>
 </ul>
 
 
