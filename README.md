@@ -9,7 +9,7 @@ Pour plus de simplicité, tous les fichiers sont à la racine du projet.
 Vous trouverez :
 
 <ul>
-  <li>Le notebook de modelisation du modele <strong>p7_full.ipynb</strong></li>
+  <li>Le notebook de modelisation <strong>modelisation.ipynb</strong></li>
   <li>L'API Flask <strong>app.py</strong></li>
   <li>Le notebook client pour requeter l'API <strong>client.ipynb</strong></li>
   <li>Le fichier contenant les tests unitaire <strong>test_app.py</strong></li>
